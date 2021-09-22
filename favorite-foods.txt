@@ -6,3 +6,4 @@ hotdogs
 sandwiches
 cereal
 Soup
+ice-cream
